@@ -1,0 +1,6 @@
+;Settings Info Used By Shoot 'em Batch
+;Warning: Don't Modify here the FrameSkip and GameSpeed data
+FrameSkip=1
+GameSpeed=32769
+SkipLoadFrame=1
+Gnr=M

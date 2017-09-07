@@ -1,0 +1,4 @@
+=== Changes in 1.5 ===
+
+* Fixed 'freeze during boot on windows 10'
+* Some minor changes
